@@ -1,5 +1,7 @@
 ## RetroVRS Deployments 
 
-📍 France
-👜 Luxury resale marketplace
+- 📍 France
+- 👜 Luxury resale marketplace
+
+[Linktree](https://linktr.ee/retrovrs)
 
